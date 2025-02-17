@@ -1,0 +1,106 @@
+nav {
+
+	background-color: ;
+	max-width: 800px;
+	margin: auto;
+	font-size: 1rem;
+	border-radius: 0.2rem;
+	text-transform: uppercase;
+}
+
+nav ul {
+	display: flex;
+	align-items: stretch;
+	flex-direction: row;
+	justify-content: right;
+
+	
+}
+
+nav ul li {
+
+	background-color: whitesmoke;
+	flex-flow: row wrap;
+	align-items: stretch;
+	list-style-type: none;
+	padding: 0.3rem;
+	margin: 0.1rem;
+	max-width: 100%;
+	border-radius: 0.5rem;
+	border: 1px solid	rgba(127,255,0,0.5);
+	border: 5px solid	rgba(127,255,0,0.5);
+}
+
+nav ul li a {
+	font-family: 'Solway', serif;
+/*	font-family: "Pixelify Sans", sans-serif;*/
+	font-optical-sizing: auto;
+	font-weight: 700;
+	font-style: normal;
+
+	text-decoration: none;
+	color: forestgreen;
+}
+
+nav ul li a:visited {
+	text-decoration: none;
+	color: forestgreen;
+}
+
+nav ul li a:hover {
+	text-decoration: ;
+	color: blue;
+}
+
+body {
+	background-color: rgba(153, 51, 204, 0.5);
+/*	rgb(153,51,204)*/
+}
+
+p {
+	font-family: "Emilys Candy", serif;
+}
+
+
+.first-page {
+	font-style: italic;
+	color:red;
+}
+
+
+.main-image {
+	max-width: 25%;
+	border-radius: 3000px;
+}
+
+.terminal {
+	background-color: black;
+  	background-image: radial-gradient(
+    		rgba(0, 150, 0, 0.75), black 120%
+ 			 );
+  	height: 100vh;
+}
+
+.terminal .space {
+	color: white;
+	font: 1.3rem Inconsolata, monospace;
+	text-shadow: 0 0 5px #C8C8C8;
+}
+
+.terminal .space:after {
+	content: "";
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100vw;
+	height: 100vh;
+	background: repeating-linear-gradient(
+    0deg,
+    rgba(black, 0.15),
+    rgba(black, 0.15) 1px,
+    transparent 1px,
+    transparent 2px
+  );
+}
+
+/*start of media query */
