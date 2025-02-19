@@ -157,7 +157,7 @@ main {
 
 
 p {
-	font-family: font-family: 'Noto Sans', sans-serif;
+	font-family: font-family: 'Times New Roman', sans-serif;
 /*	font-size: 1rem;*/
 }
 
@@ -165,7 +165,7 @@ p {
 
 
 footer {
-	font-family: 'Playfair Display', serif;
+	font-family: 'Times New Roman', serif;
 	font-weight: 100;
 	color: seagreen;
 /*	background-color: whitesmoke;*/
@@ -176,7 +176,7 @@ footer {
 }
 
 h1 {
-	font-family: 'Playfair Display', serif;
+	font-family: 'Times New Roman', serif;
 	font-weight: 900;
 	margin: 0rem;
 }
@@ -187,7 +187,7 @@ h2 {
 }
 
 h3 {
-	font-family: 'IBM+Plex', monospace;
+	font-family: 'Times New Roman', monospace;
 
 /*This is a note*/
 
@@ -203,7 +203,7 @@ h4 {
 }
 
 p {
-	font-family: 'IBM Plex Sans', sans-serif;
+	font-family: 'Times New Roman', sans-serif;
 }
 
 
@@ -294,7 +294,7 @@ wiki link wiki-link*/
 
 .list-item h2 {
 	display: flex;
-	font-family: "Roboto Slab", serif;
+	font-family: "Times New Roman", serif;
 /*	font-family: 'Pixelify Sans', cursive; */
 /*	This will fall back to a default font when not connected*/
 }
