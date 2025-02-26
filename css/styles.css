@@ -781,27 +781,6 @@ nav ul li a {
 }
 
 
-.red {
-	width: 300px;
-	background-color: crimson;
-	padding: 1rem;
-}
-
-.green {
-	width: 300px;
-	background-color: greenyellow;
-	padding: 1rem;
-}
-
-.teal {
-	width: 300px;
-	background-color: teal;
-	padding: 1rem;
-}
-
-
-
-
 }
 
 @media screen and (min-width:501px){
@@ -827,16 +806,3 @@ nav ul li a {
 	background-color: crimson;
 	padding: 3rem;
 }
-
-
-
-
-
-	body {
-
-/*	background-color: #dbf0f9;*/
-/*	background-image: file:///D:/4502-class-example/4502-class-example/img/2001.png;*/
-/*background-image: url("../img/2001.png");*/
-}
-
-	}
