@@ -113,11 +113,6 @@ p {
 	text-align: center; 
 }
 
-.center-image {
-	display: block; 
-	margin-left: auto; 
-	margin-right: auto;
-}
 
 /* .corner {
 	width: 0;
@@ -214,12 +209,23 @@ p {
 .main-image {
 	display: flex;
 	justify-content: center;
+	
+.center-image {
+	display: block; 
+	margin-left: auto; 
+	margin-right: auto;
+
 }
 
 img {
 	display: flex; 
 	justify-content: center; 
 	border: none;
+
+.center-image {
+	display: block; 
+	margin-left: auto; 
+	margin-right: auto;
 }
 
 .main-image img {
