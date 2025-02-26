@@ -68,6 +68,10 @@ nav ul li a:hover {
 	color: blue;
 }
 
+ol li {
+	text-align:center; width: 300px; 
+}
+
 body {
 	display: flex;
 	flex-direction: column;
