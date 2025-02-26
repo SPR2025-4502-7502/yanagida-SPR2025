@@ -234,7 +234,7 @@ button_previous {  }
 .stepper {  }
 
 button {
-	background-color: orange;
+	background-color: blue;
 	margin: 1rem;
 	padding: 1rem;
 	min-width: 10rem;
@@ -379,7 +379,7 @@ background-color: lightgray;
 	color: whitesmoke;
 	text-shadow: black 1px 0 10px;
 	background: black;
-	border-radius: 2px;
+	border-radius: 0px;
 
 }
 
@@ -390,7 +390,7 @@ background-color: lightgray;
 	max-width: 200px;
 	margin: 1rem;
 	box-shadow: 3px 3px gold;
-	border-radius: 0.3rem;
+	border-radius: 0;
 	
 }
 
@@ -480,52 +480,10 @@ background-color: rgba(218,165,32,0.5);
 	padding: 1rem;
 }
 
-
-
-
-.image-type-1 {
-	background-color: greenyellow;
-	padding: 2rem;
-	margin: 1rem;
-	border: red 5px solid;
-}
-
-.image-type-2 {
-	background-color: orange;
-	padding: 2rem;
-	padding-left: 1rem;
-	margin: 1rem;
-	border: red 5px solid;
-}
-
-.image-type-3 {
-	background-color: teal;
-	padding: 2rem;
-	padding-left: 1rem;
-	margin: 1rem;
-	border: red 5px solid;
-}
-
-.image-type-4 {
-	background-color: rebeccapurple;
-	padding: 2rem;
-	padding-left: 1rem;
-	margin: 1rem;
-	border: red 5px solid;
-}
-
-.image-type-5 {
-	background-color: rebeccapurple;
-	padding: 4rem;
-	padding-left: 1rem;
-	margin: 1rem;
-	border: red 5px solid;
-}
-
 .mailing-link img {
 	display: flex;
 	align-text: center;
-	border-radius: 5rem;
+	border-radius: 0px;
 	max-width: 400px;
 }
 
