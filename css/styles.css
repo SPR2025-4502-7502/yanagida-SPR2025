@@ -11,8 +11,9 @@ nav {
 
 nav ul {
 	display: flex;
-/*	flex-direction: row-reverse;*/
-/*	align-items: stretch;*/
+	justify-content: center;
+	align-items: center; 
+	align-content: center;
 	flex-direction: row;
 	justify-content: space-between;
 	margin-block-start: 0em;
@@ -67,11 +68,6 @@ body {
 /*	rgb(153,51,204)*/
 }
 
-
-.red-trees {
-	background-image: url("../img/starfield-red-trees.png") !important;
-}
-
 h1 {
 	display: flex;
 	justify-content: center;
@@ -85,6 +81,8 @@ h1 {
 
 
 p {
+	display: flex; 
+	justify-content: center; 
 	font-family: "IBM Plex Sans", serif;
 }
 
@@ -262,15 +260,5 @@ footer {
 	.nesting {
 		display: flex;
 		flex-direction: row;
-	}
-
-	.plantlist {
-		font-size: 2rem;
-	}
-
-	.plantlist li {
-		list-style-type: square;
-
-	}
 
 }
