@@ -26,6 +26,8 @@ nav ul {
 
 nav ul li {
 
+	display: flex; 
+	justify-content: center; 
 	background-color: whitesmoke;
 /*	flex-flow: row wrap;*/
 /*	align-items: stretch;*/
@@ -40,6 +42,8 @@ border: 1px solid	rgba(0,162,230,0.5);
 }
 
 nav ul li a {
+	display: flex; 
+	justify-content: center; 
 	font-family: 'Solway', serif;
 /*	font-family: "Pixelify Sans", sans-serif;*/
 	font-optical-sizing: auto;
@@ -99,13 +103,6 @@ p {
 
 .center-text {
 	text-align: center; 
-}
-
-.center-container {
-	display: flex; 
-	justify-content: center; 
-	align-items: center; 
-	height: 100vh; 
 }
 
 /* .corner {
