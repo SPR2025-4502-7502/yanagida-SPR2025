@@ -157,8 +157,12 @@ main {
 
 
 p {
-	font-family: font-family: 'Times New Roman', sans-serif;
+	display: flex; 
+	justify-content: center; 
+	align-items: center;
+	font-family: 'Times New Roman', sans-serif;
 /*	font-size: 1rem;*/
+	
 }
 
 
