@@ -298,6 +298,12 @@ footer {
 /*start of media query */
 @media screen and (max-width: 500px){
 
+.main-image img {
+	max-width: 45%;
+	border-radius: 3000px;
+	margin: auto;
+}
+
 	.flex-squares {
 		display: flex;
 		flex-direction: column;
