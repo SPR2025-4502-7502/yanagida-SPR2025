@@ -432,17 +432,6 @@ background-color: lightgray;
 	background: skyblue;
 }
 
-
-
-.crabgrounds6 {
-	background-image: 
-	linear-gradient(rgba(115, 191, 255, 0.5), rgba(229, 172, 103, 1.0)),
-/*	linear-gradient(rgba(0, 0, 255, 0.5), rgba(255, 255, 0, 0.5)),*/
-  	url("../img/crab-background.png");
-  	background-repeat: no-repeat;
-
-}
-
 .greens {
 /*	text-shadow: 5px 5px #558ABB;*/
 /*	background-color: goldenrod;*/
@@ -562,7 +551,7 @@ background-color: rgba(218,165,32,0.5);
 /*	width: 100%;*/
 /*	margin: 1rem;*/
 	display: flex; 
-	align-items: center;
+	align-content: center;
 	margin: auto;
 /*	filter: drop-shadow(0 0 0.75rem #00bfff);*/
 /*	filter: drop-shadow(0 0 0.75rem crimson);*/
