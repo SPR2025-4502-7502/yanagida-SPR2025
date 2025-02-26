@@ -69,7 +69,9 @@ nav ul li a:hover {
 }
 
 ol li {
-	text-align:center; width: 300px; 
+	display: flex; 
+	justify-content: center; 
+	align-text: center; 
 }
 
 body {
