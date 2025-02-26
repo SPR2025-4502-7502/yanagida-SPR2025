@@ -62,7 +62,7 @@ nav ul {
 	display: flex;
 	align-items: stretch;
 	flex-direction: row;
-	justify-content: right;
+	justify-content: center;
 
 	
 }
