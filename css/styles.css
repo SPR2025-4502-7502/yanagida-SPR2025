@@ -297,6 +297,17 @@ footer {
 /*start of media query */
 @media screen and (max-width: 500px){
 
+nav ul {
+	max-height: 130px;
+	display: flex;
+	flex-direction: column; 
+	justify-content: center;
+	margin-block-start: 0rem;
+	padding-inline-start: 0px;
+
+}
+	
+	
 body {
 	display: flex;
 	flex-direction: column;
