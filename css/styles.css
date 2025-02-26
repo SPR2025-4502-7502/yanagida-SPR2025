@@ -299,9 +299,9 @@ footer {
 @media screen and (max-width: 500px){
 
 .main-image img {
-	max-width: 45%;
-	border-radius: 3000px;
-	margin: auto;
+	max-width: 80%;
+	border-radius: 30px;
+/* 	/* margin: auto;* */
 }
 
 	.flex-squares {
