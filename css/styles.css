@@ -164,18 +164,11 @@ footer {
 
 h1 {
 	display: flex; 
+	justify-content: center; 
 	align-text: center;
 	font-family: 'Times New Roman', serif;
 	font-weight: 900;
 	margin: 0rem;
-
-.roboto-<uniquifier> {
-  font-family: "Roboto", serif;
-  font-optical-sizing: auto;
-  font-weight: <weight>;
-  font-style: normal;
-  font-variation-settings:
-    "wdth" 100;
 }
 
 h2 {
