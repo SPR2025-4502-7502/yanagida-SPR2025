@@ -105,6 +105,12 @@ p {
 	text-align: center; 
 }
 
+.center-image {
+	display: block; 
+	margin-left: auto; 
+	margin-right: auto;
+}
+
 /* .corner {
 	width: 0;
     height: 0;
