@@ -306,6 +306,11 @@ nav ul {
 	padding-inline-start: 0px;
 
 }
+
+nav ul li {
+	max-width: 100%
+	min-width: 40%
+}
 	
 	
 body {
