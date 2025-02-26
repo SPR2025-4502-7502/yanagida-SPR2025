@@ -97,6 +97,13 @@ p {
 
 }
 
+.center-container {
+	display: flex; 
+	justify-content: center; 
+	align-items: center; 
+	height: 100vh; 
+}
+
 /* .corner {
 	width: 0;
     height: 0;
