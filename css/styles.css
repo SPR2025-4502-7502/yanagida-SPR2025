@@ -60,7 +60,7 @@ nav ul li a {
 nav ul li a:visited {
 	text-decoration: none;
 	color: gray;
-*/	color: rgba(230,68,0,0.5)*/
+/* color: rgba(230,68,0,0.5)*/
 }
 
 nav ul li a:hover {
