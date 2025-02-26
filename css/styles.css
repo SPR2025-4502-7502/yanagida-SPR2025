@@ -199,15 +199,19 @@ p {
 
 .main-image {
 	display: flex;
-	
+	justify-content: center;
 }
 
 img {
+	display: flex; 
+	justify-content: center; 
 	border: none;
 }
 
 .main-image img {
 
+	display: flex; 
+	justify-content: center; 
 	max-width: 45%;
 	border-radius: 3000px;
 	margin: auto;
