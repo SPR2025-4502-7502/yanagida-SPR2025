@@ -179,15 +179,21 @@ h1 {
 	font-family: 'Times New Roman', serif;
 	font-weight: 900;
 	margin: 0rem;
+	justify-content: center;
+	align-items: center;
 }
 
 h2 {
 	font-size: 1.5rem;
 	text-transform: capitalize;
+	justify-content: center; 
+	align-items: center;
 }
 
 h3 {
 	font-family: 'Times New Roman', monospace;
+	justify-content: center; 
+	align-items: center;
 
 /*This is a note*/
 
