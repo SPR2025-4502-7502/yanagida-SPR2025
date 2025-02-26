@@ -298,6 +298,21 @@ footer {
 /*start of media query */
 @media screen and (max-width: 500px){
 
+body {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-text: center;
+	background-color: rgba(153, 51, 204, 0.5);
+/*	rgb(153,51,204)*/
+}
+
+	h1 {
+		margin-left: 2rem;
+	h2 {
+		margin-left: 1.5rem; 
+}
+	
 .main-image img {
 	max-width: 80%;
 	border-radius: 30px;
