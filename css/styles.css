@@ -54,17 +54,17 @@ nav ul li a {
 	font-style: normal;
 
 	text-decoration: none;
-	color: rgba(230,68,0,0.5);
+	color: gray;
 }
 
 nav ul li a:visited {
 	text-decoration: none;
-	color: black;
+	color: gray;
 }
 
 nav ul li a:hover {
 	text-decoration: ;
-	color: blue;
+	color: black;
 }
 
 ol li {
