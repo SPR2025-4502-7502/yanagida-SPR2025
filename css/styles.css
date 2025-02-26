@@ -708,11 +708,15 @@ img {
 }
 
 h1 {
+	display: flex; 
+	align-text: center; 
 	font-weight: 700;
 	text-decoration: underline 2rem solid gold;
 }
 
 h2 {
+	display: flex; 
+	align-text: center; 
 	font-weight: 500;
 	font-size: 2.0rem;
 	margin-left: 1rem;
@@ -720,10 +724,14 @@ h2 {
 }
 
 p {
+	display: flex; 
+	align-text: center; 
 	font-size: 1.5rem;
 	}
 
 nav {
+	display: flex; 
+	align-content: center;
 	background-color: rgba(255, 255, 255, 0.0);
 	max-width: 100%;
 	font-size: 1rem;
@@ -742,10 +750,11 @@ nav ul {
 
 
 nav ul li {
+	display: flex; 
 	flex-flow: row wrap;
 	list-style-type: none !important;
 	padding: 0.1rem;
-	text-align: center;
+	align-text: center;
 	margin-top: 0.15rem;
 /*	width: 100%;*/
 	
@@ -755,6 +764,10 @@ nav ul li {
 nav ul li a {
 
 /*	text-decoration: overline;*/
+	display: flex; 
+	align-text: center; 
+	align-items: center; 
+	justify-content: center; 
 	text-transform: uppercase;
 }
 
