@@ -231,10 +231,11 @@ p {
 
 }
 
-img {
+.mountain img {
 	display: flex; 
 	justify-content: center;
 	border: none;
+	margin: 1rem;
 	max-width: 100px;
 	max-height: 300px;
 
