@@ -364,4 +364,8 @@ body {
 		display: flex;
 		flex-direction: row;
 
+
+@media screen and (min-width:555px; max-width:888px){
+	body {
+		background-color:
 }
