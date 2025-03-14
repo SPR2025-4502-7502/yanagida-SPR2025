@@ -231,13 +231,24 @@ p {
 
 }
 
-.mountain img {
+.mountain {
 	display: flex; 
 	justify-content: center;
 	border: none;
 	margin: 1rem;
 	max-width: 100px;
 	max-height: 300px;
+}
+
+img {
+	display: flex; 
+	justify-content: center; 
+	border: none; 
+	max-height: 400px;
+	max-width: 100px;
+
+}
+	
 
 .center-image {
 	display: block; 
