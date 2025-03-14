@@ -235,8 +235,8 @@ img {
 	display: flex; 
 	justify-content: center;
 	border: none;
-	width: 100px;
-	height: 300px;
+	max-width: 100px;
+	max-height: 300px;
 
 .center-image {
 	display: block; 
