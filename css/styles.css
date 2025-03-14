@@ -29,7 +29,6 @@ nav ul li {
 
 	display: flex; 
 	justify-content: center; 
-	align-text: center;
 	background-color: whitesmoke;
 /*	flex-flow: row wrap;*/
 /*	align-items: stretch;*/
@@ -46,10 +45,8 @@ border: 1px solid	rgba(0,162,230,0.5);
 nav ul li a {
 	display: flex; 
 	justify-content: center; 
-	align-text: center;
 	font-family: 'Solway', serif;
 /*	font-family: "Pixelify Sans", sans-serif;*/
-	font-optical-sizing: auto;
 	font-weight: 700;
 	font-style: normal;
 
@@ -78,7 +75,6 @@ body {
 	display: flex;
 	flex-direction: column;
 	justify-content: center;
-	align-text: center;
 	background-color: rgba(153, 51, 204, 0.5);
 /*	rgb(153,51,204)*/
 }
@@ -218,11 +214,6 @@ p {
 	font-style: italic;
 	color:red;
 }
-
-
-.main-image {
-	display: flex;
-	justify-content: center;
 	
 .center-image {
 	display: block; 
