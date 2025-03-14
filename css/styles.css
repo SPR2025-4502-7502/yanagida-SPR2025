@@ -29,7 +29,7 @@ nav ul li {
 
 	display: flex; 
 	justify-content: center; 
-	align-text: center;
+	text-align: center;
 	background-color: whitesmoke;
 /*	flex-flow: row wrap;*/
 /*	align-items: stretch;*/
@@ -46,7 +46,7 @@ border: 1px solid	rgba(0,162,230,0.5);
 nav ul li a {
 	display: flex; 
 	justify-content: center; 
-	align-text: center;
+	text-align: center;
 	font-family: 'Solway', serif;
 /*	font-family: "Pixelify Sans", sans-serif;*/
 	font-optical-sizing: auto;
@@ -71,14 +71,14 @@ nav ul li a:hover {
 ol li {
 	display: flex; 
 	justify-content: center; 
-	align-text: center; 
+	text-align: center; 
 }
 
 body {
 	display: flex;
 	flex-direction: column;
 	justify-content: center;
-	align-text: center;
+	text-align: center;
 	background-color: rgba(153, 51, 204, 0.5);
 /*	rgb(153,51,204)*/
 }
@@ -333,7 +333,7 @@ body {
 	display: flex;
 	flex-direction: column;
 	justify-content: center;
-	align-text: center;
+	text-align: center;
 	background-color: rgba(153, 51, 204, 0.5);
 /*	rgb(153,51,204)*/
 }
