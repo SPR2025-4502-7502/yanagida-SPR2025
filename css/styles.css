@@ -241,17 +241,16 @@ p {
 }
 
 img {
-	display: flex; 
-	justify-content: center; 
-	border: none; 
-	max-height: 400px;
-	max-width: 100px;
-
+	border: none;
+	max-width: 100%;
 }
 
-img-resize {
-	width: 540px;
-	height: auto; 
+.main-image img {
+
+	max-width: 45%;
+	border-radius: 3000px;
+	margin: auto;
+
 }
 	
 
