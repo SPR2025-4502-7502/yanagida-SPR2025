@@ -248,6 +248,11 @@ img {
 	max-width: 100px;
 
 }
+
+img.resize {
+	width: 540px;
+	height: auto; 
+}
 	
 
 .center-image {
