@@ -245,6 +245,22 @@ img {
 	max-width: 100%;
 }
 
+.vestrahorn-img {
+	max-height: 100px;
+	max-width: 400px;
+}
+
+.koolau-img {
+	max-height: 100px;
+	max-width: 400px;
+}
+
+.seceda-img {
+	max-height: 100px;
+	max-width: 400px;
+}
+
+
 .main-image img {
 
 	max-width: 45%;
