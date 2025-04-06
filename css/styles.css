@@ -250,6 +250,15 @@ footer {
 	max-height: 300px;
 }
 
+.movie {
+	display: flex; 
+	justify-content: center; 
+	border: none;
+	margin: 1rem;
+	max-xwidth: 100px;
+	max-height: 300px;
+}
+	
 img {
 	width: 200px;
 	height: 150px;
