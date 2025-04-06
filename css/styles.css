@@ -361,6 +361,8 @@ body {
 		margin-top: 0.5rem; 
 		margin-left: 2rem;
 		justify-content: space-around;
+}
+
 	h2 {
 		margin-left: 1.5rem; 
 }
@@ -382,9 +384,9 @@ body {
 	.nesting {
 		display: flex;
 		flex-direction: row;
-
-
-@media screen and (min-width:555px; max-width:888px){
+	}
+	
+{ @media screen and (min-width:555px; max-width:888px){
 	body {
 		background-color:
 }
