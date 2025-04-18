@@ -1,3 +1,118 @@
+.skip-link {
+   position: absolute;
+   width: 1px;
+   height: 1px;
+   padding: 0;
+   margin: -1px;
+   overflow: hidden;
+   border: 0;
+ }
+ 
+ .skip-link:focus{
+   width: unset;
+   height: unset;
+   position: relative;
+   padding: unset;
+   margin: unset;
+   font-size: 2rem;
+ }
+ 
+ .anchor-nav {
+ 	display: flex;
+ 	position: sticky;
+ 	top: 10px;
+ 	justify-content: space-evenly;
+ 	width: 80%;
+ 	background-color: teal;
+ 	margin: auto;
+ 	padding: 0.5rem;
+ 	color: #FFE3AA;
+ 	text-transform: uppercase;
+ 	border-radius: 1rem;
+ 
+ }
+ 
+ .anchor-nav a {
+ 	color: #ffe3aa;
+ }
+ 
+ 
+ 
+ .red-trees {
+ 	background-image: url("../img/starfield-red-trees.png") ;
+ }
+ 
+ h1 {
+ 	display: flex;
+ 	justify-content: center;
+ 	font-family: "Yuji Syuku", serif;
+ 	font-size: 2rem;
+ 	color: whitesmoke;
+ 	text-shadow: #e64400 1px 0 10px;
+ /*	text-shadow: 1px 1px 2px red, 0 0 1em blue, 0 0 0.2em blue;*/
+ 
+ }
+ 
+ .list48 h1{
+ 	color:#434343;
+ 	text-shadow: #220a00 1px 0 2px;
+ 	text-transform: uppercase;
+ }
+ 
+ 
+ p {
+ 	font-family: "IBM Plex Sans", serif;
+ }
+ 
+ .intro-text {
+ 	margin: 1rem;
+ 	margin-top: 2rem;
+ 	padding: 1rem;
+ /*	background-color: rgba(0,162,230,0.3);*/
+ 	background-color: rgba(191,236,255, 0.4);
+ 	border-radius: 10px;
+ 
+ 
+ }
+ 
+ 
+ 
+ 
+ body {
+ 	background-color: rgba(229, 172, 103, 0.5);
+ 	overflow: scroll; /* Show scrollbars */
+ }
+ 
+ 
+ .gallery-body {
+ 
+ 	background: rgb(163,58,180);
+ 	background: linear-gradient(45deg, rgba(163,58,180,0.48211960565476186) 0%, rgba(253,29,29,0.6696196056547619) 50%, rgba(252,176,69,1) 100%);
+ 
+ }
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ nav ul li a:visited {
+ 	text-decoration: none;
+ 	color: forestgreen;
+ }
+ 
+ nav ul li a:hover button{
+ 	text-decoration: ;
+ 	color: yellow;
+ 	background-color: orangered;
+ }
+ 
+ nav ul li:hover {
+ 	background-color: orangered;
+ }
+
 nav {
  
  	display: flex; 
@@ -82,6 +197,20 @@ nav {
  	background-color: rgba(153, 51, 204, 0.5);
  /*	rgb(153,51,204)*/
  }
+
+nav ul li a button {
+ 	font-family: 'Solway', serif;
+ 	max-width: 100%;
+ 	color: rgba(230,68,0,0.5);
+ /*	border: 1px solid	rgba(0,162,230,0.5);*/
+ /*	border: 5px solid	rgba(230,68,0,0.5);*/
+ 	border: none;
+ 	font-weight: 700;
+ 	font-style: normal;
+ 	text-transform: uppercase;
+ 	font-size: 1rem;
+ 	background-color: whitesmoke;
+}
  
  h1 {
  	display: flex;
@@ -91,20 +220,30 @@ nav {
  	color: whitesmoke;
  	text-shadow: #663399 2px 0 10px;
  /*	text-shadow: 1px 1px 2px red, 0 0 1em blue, 0 0 0.2em blue;*/
- 
- }
+
+nav ul li a:visited {
+ 	text-decoration: none;
+ 	color: orangered;
+
+}
  
  h2 {
  	display: flex; 
  	justify-content: center; 
  	color: black;
  	font-family: "Times New Roman", serif;
+nav ul li a:hover button{
+ 	text-decoration: ;
+ 	color: yellow;
+ 	background-color: orangered;
  }
  
  p {
  	display: flex; 
  	justify-content: center; 
  	font-family: "IBM Plex Sans", serif;
+	 nav ul li:hover {
+ 	background-color: orangered;
  }
  
  footer {
@@ -130,6 +269,9 @@ nav {
  
  .center-text {
  	text-align: center; 
+ }
+ .container {
+     position: relative;
  }
  
  .center {
@@ -274,6 +416,8 @@ nav {
  img {
  	width: 200px;
  	height: 150px;
+	 border: none;
+ 	max-width: 100%;
  }
  
  .main-image img {
@@ -289,6 +433,10 @@ nav {
  	display: block; 
  	margin-left: auto; 
  	margin-right: auto;
+ }
+	 a:visited {
+   color: black;
+   text-decoration-color: hotpink;
  }
  
  .main-image img {
@@ -314,6 +462,13 @@ nav {
  	font: 1.3rem Inconsolata, monospace;
  	text-shadow: 0 0 5px #C8C8C8;
  }
+
+main {
+ 	max-width: 800px;
+ 	margin: auto;
+ 	font-size: 1.4rem;
+}
+
  
  .terminal .space:after {
  	content: "";
