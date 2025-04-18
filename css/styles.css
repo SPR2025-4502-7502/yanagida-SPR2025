@@ -349,14 +349,7 @@ nav {
  }
  
  
- 
- .gallery-image {
- 
- }
- 
- 
- 
- 
+
  
  
  /*Photo gallery css for gallery-test*/
@@ -404,19 +397,13 @@ nav {
  }
  
  .gallery-image {
- /*	max-width: 80%;*/
- 
- 
- 
- 
- }
- 
- .gallery-image img {
- 	width: 100%;
- /*	aspect-ratio: auto;
- 	max-height: 600px;
- 	margin: auto;*/
- }
+	max-width: 80%;
+
+}
+
+.gallery-image img {
+	width: 100%;
+}
  
  .gallery-example {
  	display: flex;
