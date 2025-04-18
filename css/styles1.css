@@ -74,15 +74,14 @@ p {
 
 
 body {
-	background-color: rgba(229, 172, 103, 0.5);
+	background-color: lavender;
 	overflow: scroll; /* Show scrollbars */
 }
 
 
 .gallery-body {
 
-	background: rgb(163,58,180);
-	background: linear-gradient(45deg, rgba(163,58,180,0.48211960565476186) 0%, rgba(253,29,29,0.6696196056547619) 50%, rgba(252,176,69,1) 100%);
+	background: lavender;
 
 }
 
@@ -100,12 +99,12 @@ nav ul li a:visited {
 
 nav ul li a:hover button{
 	text-decoration: ;
-	color: yellow;
-	background-color: orangered;
+	color: black;
+	background-color: lavender;
 }
 
 nav ul li:hover {
-	background-color: orangered;
+	background-color: lavender;
 }
 
 
@@ -188,8 +187,8 @@ nav ul li a:visited {
 
 nav ul li a:hover button{
 	text-decoration: ;
-	color: yellow;
-	background-color: orangered;
+	color: black;
+	background-color: lavender;
 }
 
 nav ul li:hover {
