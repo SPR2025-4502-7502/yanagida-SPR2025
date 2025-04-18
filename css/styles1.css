@@ -74,14 +74,14 @@ p {
 
 
 body {
-	background-color: lavender;
+	background-color: light purple;
 	overflow: scroll; /* Show scrollbars */
 }
 
 
 .gallery-body {
 
-	background: lavender;
+	background: light purple;
 
 }
 
@@ -100,11 +100,11 @@ nav ul li a:visited {
 nav ul li a:hover button{
 	text-decoration: ;
 	color: black;
-	background-color: lavender;
+	background-color: light purple;
 }
 
 nav ul li:hover {
-	background-color: lavender;
+	background-color: light purple;
 }
 
 
@@ -188,11 +188,11 @@ nav ul li a:visited {
 nav ul li a:hover button{
 	text-decoration: ;
 	color: black;
-	background-color: lavender;
+	background-color: light purple;
 }
 
 nav ul li:hover {
-	background-color: orangered;
+	background-color: lavender;
 }
 
 .container {
@@ -1251,11 +1251,11 @@ nav ul li a:visited {
 nav ul li a:hover button{
 	text-decoration: ;
 	color: yellow;
-	background-color: orangered;
+	background-color: lavender;
 }
 
 nav ul li:hover {
-	background-color: orangered;
+	background-color: lavender;
 }
 
 
