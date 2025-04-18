@@ -1069,8 +1069,7 @@ body {
 /*	background: rgb(131,58,180);*/
 /*	background: linear-gradient(45deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 50%, rgba(252,176,69,1) 100%);*/
 
-background: rgb(163,58,180);
-background: linear-gradient(45deg, rgba(163,58,180,0.48211960565476186) 0%, rgba(253,29,29,0.6696196056547619) 50%, rgba(252,176,69,1) 100%);
+background: rgba(153, 51, 204, 0.5);
 
 }
 
@@ -1348,7 +1347,7 @@ nav ul li:hover {
 
 @media screen and (min-width:601px) and (max-width:650px){
 	body {
-		background-color: #67a0e5;
+		background-color: rgba(153, 51, 204, 0.5);
 }
 
 
