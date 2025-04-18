@@ -74,14 +74,14 @@ p {
 
 
 body {
-	background-color: magenta;
+	rgba(153, 51, 204, 0.5);
 	overflow: scroll; /* Show scrollbars */
 }
 
 
 .gallery-body {
 
-	background: magenta;
+	rgba(153, 51, 204, 0.5);
 
 }
 
@@ -100,11 +100,11 @@ nav ul li a:visited {
 nav ul li a:hover button{
 	text-decoration: ;
 	color: black;
-	background-color: magenta;
+	background-color: rgba(153, 51, 204, 0.5);
 }
 
 nav ul li:hover {
-	background-color: magenta;
+	background-color: rgba(153, 51, 204, 0.5);
 }
 
 
@@ -188,11 +188,11 @@ nav ul li a:visited {
 nav ul li a:hover button{
 	text-decoration: ;
 	color: black;
-	background-color: magenta;
+	background-color: rgba(153, 51, 204, 0.5);
 }
 
 nav ul li:hover {
-	background-color: lavender;
+	background-color: rgba(153, 51, 204, 0.5);
 }
 
 .container {
@@ -283,7 +283,6 @@ nav ul li:hover {
 
 
 .purple {
-	background-image: url(../img/BloodchildButler.jpg);
 	background-color: mediumpurple;
 	width: 40px;
 	height: 50px;
@@ -512,7 +511,7 @@ button_previous {
 .stepper {  }
 
 .button {
-	background-color: purple;
+	background-color: rgba(153, 51, 204, 0.5);
 	margin: 1rem;
 	padding: 1rem;
 	min-width: 10rem;
