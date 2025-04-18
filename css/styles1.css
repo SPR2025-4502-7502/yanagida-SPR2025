@@ -74,14 +74,14 @@ p {
 
 
 body {
-	background-color: light purple;
+	background-color: magenta;
 	overflow: scroll; /* Show scrollbars */
 }
 
 
 .gallery-body {
 
-	background: light purple;
+	background: magenta;
 
 }
 
@@ -100,11 +100,11 @@ nav ul li a:visited {
 nav ul li a:hover button{
 	text-decoration: ;
 	color: black;
-	background-color: light purple;
+	background-color: magenta;
 }
 
 nav ul li:hover {
-	background-color: light purple;
+	background-color: magenta;
 }
 
 
@@ -188,7 +188,7 @@ nav ul li a:visited {
 nav ul li a:hover button{
 	text-decoration: ;
 	color: black;
-	background-color: light purple;
+	background-color: magenta;
 }
 
 nav ul li:hover {
@@ -429,7 +429,7 @@ buttongallery {
 
 
 p {
-	font-family: font-family: 'Noto Sans', sans-serif;
+	font-family: font-family; 'Noto Sans', sans-serif;
 /*	font-size: 1rem;*/
 }
 
@@ -512,7 +512,7 @@ button_previous {
 .stepper {  }
 
 .button {
-	background-color: dark purple;
+	background-color: purple;
 	margin: 1rem;
 	padding: 1rem;
 	min-width: 10rem;
