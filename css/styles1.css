@@ -66,6 +66,8 @@ p {
 }
 
 .intro-text {
+	display: flex; 
+	justify-content: center;
 	margin: 1rem;
 	margin-top: 2rem;
 	padding: 1rem;
@@ -80,6 +82,8 @@ p {
 
 
 body {
+	display: flex; 
+	justify-content: center; 
 	background-color: rgba(229, 172, 103, 0.5);
 	overflow: scroll; /* Show scrollbars */
 }
@@ -471,6 +475,8 @@ p {
 
 
 footer {
+	display: flex; 
+	justify-content: center; 
 	font-family: 'Playfair Display', serif;
 	font-weight: 100;
 	color: #113320;
@@ -485,18 +491,24 @@ footer {
 
 
 h1 {
+	display: flex;
+	justify-content: center; 
 	font-family: 'Playfair Display', serif;
 	font-weight: 900;
 	margin: 0rem;
 }
 
 h2 {
+	display: flex; 
+	justify-content: center; 
 	font-size: 2.5rem;
 	text-transform: capitalize;
 	max-width: 100%;
 }
 
 h3 {
+	display: flex; 
+	justify-content: center; 
 	font-family: 'IBM+Plex', monospace;
 
 /*This is a note*/
@@ -869,16 +881,6 @@ background-color: lightgray;
 }
 
 
-
-.crabgrounds6 {
-	background-image: 
-	linear-gradient(rgba(115, 191, 255, 0.5), rgba(229, 172, 103, 1.0)),
-/*	linear-gradient(rgba(0, 0, 255, 0.5), rgba(255, 255, 0, 0.5)),*/
-  	url("../img/crab-background.png");
-  	background-repeat: no-repeat;
-
-}
-
 .greens {
 /*	text-shadow: 5px 5px #558ABB;*/
 /*	background-color: goldenrod;*/
@@ -1104,8 +1106,7 @@ body {
 /*	background: rgb(131,58,180);*/
 /*	background: linear-gradient(45deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 50%, rgba(252,176,69,1) 100%);*/
 
-background: rgb(163,58,180);
-background: linear-gradient(45deg, rgba(163,58,180,0.48211960565476186) 0%, rgba(253,29,29,0.6696196056547619) 50%, rgba(252,176,69,1) 100%);
+background: violet;
 
 }
 
