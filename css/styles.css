@@ -485,6 +485,125 @@ main {
      transparent 2px
    );
  }
+
+.footer {
+ 	
+ }
+ 
+ 
+ /*gallery css*/
+ .gallery {
+ 
+ 
+ @@ -350,6 +390,14 @@ stepper {
+ 
+ 
+ 
+ .gallery-image {
+ 
+ }
+ 
+ 
+ 
+ 
+ 
+ 
+ /*Photo gallery css for gallery-test*/
+ 
+ @@ -410,6 +458,68 @@ buttongallery {
+ 	margin: auto;*/
+ }
+ 
+ /*end gallery */
+ 
+ 
+ 
+ p {
+ 	font-family: font-family: 'Noto Sans', sans-serif;
+ /*	font-size: 1rem;*/
+ }
+ 
+ 
+ 
+ 
+ footer {
+ 	font-family: 'Playfair Display', serif;
+ 	font-weight: 100;
+ 	color: #113320;
+ /*	background-color: whitesmoke;*/
+ 	max-width: 800px;
+ 	margin: auto;
+ 	
+ 
+ }
+ 
+ 
+ 
+ 
+ h1 {
+ 	font-family: 'Playfair Display', serif;
+ 	font-weight: 900;
+ 	margin: 0rem;
+ }
+ 
+ h2 {
+ 	font-size: 2.5rem;
+ 	text-transform: capitalize;
+ 	max-width: 100%;
+ }
+ 
+ h3 {
+ 	font-family: 'IBM+Plex', monospace;
+ 
+ /*This is a note*/
+ 
+ 
+ /*this is a comment*/
+ }
+ 
+ 
+ 
+ 
+ h4 {
+ 
+ }
+ 
+ p {
+ 	font-family: 'IBM Plex Sans', sans-serif;
+ }
+ 
+ 
+ 
+ /*Photo gallery css for gallery-test*/
+ 
+ .gallery-example {
+ 	display: flex;
+ 	flex-direction: column;
+ @@ -944,59 +1054,245 @@ background-color: rgba(218,165,32,0.5);
+ }*/
+ 
+ 
+ footer {
+ 
+ /*.gallery-image {
+ 
+ 
+   display: block;
+   margin-block-start: 0;
+   margin-block-end: 0;
+   margin-inline-start: 0;
+   margin-inline-end: 0;
+   margin: auto;
+   width: 100%;
+   max-width: 700px;
+   
+ 
+ 
+ }
+ */
+ .intro {
+ 	background-color: skyblue;
+ }
  
  .gallery {
  
