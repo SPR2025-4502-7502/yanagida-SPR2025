@@ -70,12 +70,12 @@ nav ul li a:visited {
 
 nav ul li a:hover button{
 	text-decoration: ;
-	color: yellow;
-	background-color: orangered;
+	color: black;
+	background-color: purple;
 }
 
 nav ul li:hover {
-	background-color: orangered;
+	background-color: purple;
 }
 
 
@@ -1066,16 +1066,6 @@ background-color: rgba(218,165,32,0.5);
  	text-decoration: none;
  	color: forestgreen;
  }
- 
- nav ul li a:hover button{
- 	text-decoration: ;
- 	color: yellow;
- 	background-color: orangered;
- }
- 
- nav ul li:hover {
- 	background-color: orangered;
- }
 
 nav {
  
@@ -1198,8 +1188,8 @@ nav ul li a:visited {
  	font-family: "Times New Roman", serif;
 nav ul li a:hover button{
  	text-decoration: ;
- 	color: yellow;
- 	background-color: orangered;
+ 	color: black;
+ 	background-color: purple;
  }
  
  p {
@@ -1207,7 +1197,7 @@ nav ul li a:hover button{
  	justify-content: center; 
  	font-family: "IBM Plex Sans", serif;
 	 nav ul li:hover {
- 	background-color: orangered;
+ 	background-color: purple;
  }
  
  footer {
