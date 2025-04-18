@@ -182,7 +182,7 @@ nav ul li a button {
 
 nav ul li a:visited {
 	text-decoration: none;
-	color: orangered;
+	color: purple;
 }
 
 nav ul li a:hover button{
@@ -512,7 +512,7 @@ button_previous {
 .stepper {  }
 
 .button {
-	background-color: orange;
+	background-color: dark purple;
 	margin: 1rem;
 	padding: 1rem;
 	min-width: 10rem;
