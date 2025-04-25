@@ -354,6 +354,7 @@ nav {
  }
 
 map { 
+  justify-content: center;
   width: 40px;
   height: 15px; 
 
