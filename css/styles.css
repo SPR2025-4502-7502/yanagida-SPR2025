@@ -1139,21 +1139,6 @@ nav ul li a button {
 	background-color: whitesmoke;
 }
 
-nav ul li a:visited {
-	text-decoration: none;
-	color: forestgreen;
-}
-
-nav ul li a:hover button{
-	text-decoration: ;
-	color: yellow;
-	background-color: lavender;
-}
-
-nav ul li:hover {
-	background-color: lavender;
-}
-
 
 	.flex-squares {
 		display: flex;
