@@ -472,13 +472,6 @@ map {
  	border-radius: 10px;
  }
 
-  h1 { 
-    font-family: 'Playfair Display', serif; 
-    font-weight: 900; 
-    margin: 0rem; 
-
-  } 
-
 h2 {
   font-size: 2.5rem; 
   text-transofrm: capitalize; 
