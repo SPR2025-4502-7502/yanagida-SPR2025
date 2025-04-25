@@ -81,7 +81,7 @@ nav {
 nav ul li a button { 
   font-family: 'Solway', serif; 
   max-width: 100%; 
-  color: rgba(230,68,0,0.5); 
+  color: gray; 
   border: none; 
   font-weight: 700; 
   font-style: normal;
