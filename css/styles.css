@@ -768,7 +768,9 @@ background-color: lightgray;
    
 .img-credit {
 	    
-    	position: absolute;
+    	display: flex; 
+	justify-content: center;
+	position: absolute;
     	bottom: 0;
     	right: 0;
 /*    	width: 100%;*/
