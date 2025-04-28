@@ -287,7 +287,8 @@ nav ul li a button {
 
   img { 
     border: none;
-    max-width: 100%;
+    max-width: auto;
+max-height: auto;
 
   }
 
@@ -328,14 +329,13 @@ nav ul li a button {
   }
  
  img {
- 	width: 100px;
- 	height: 50px;
+ 	width: auto;
+ 	height: auto;
  }
  
  .main-image img {
  
  	max-width: 45%;
- 	border-radius: 3000px;
  	margin: auto;
  
  }
@@ -352,7 +352,6 @@ nav ul li a button {
  	display: flex; 
  	justify-content: center; 
  	max-width: 45%;
- 	border-radius: 3000px;
  	margin: auto;
  
  }
@@ -437,7 +436,7 @@ buttongallery {
 }
 
 .gallery-image img {
-	width: 100%;
+	width: auto;
 	aspect-ratio: auto;
 	max-height: 600px;
 	margin: auto;*/
