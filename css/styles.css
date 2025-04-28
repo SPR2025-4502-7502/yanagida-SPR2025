@@ -284,13 +284,13 @@ nav ul li a button {
 
  }
 
-img { 
+.img { 
 	justify-content: center; 
 	border: none;
     max-width: auto;
 max-height: auto;
 
-  }
+}
 
   a:visited {
     color: black;
@@ -327,11 +327,6 @@ max-height: auto;
     padding: 10px;
     margin: 20px auto;
   }
- 
- img {
- 	width: auto;
- 	height: auto;
- }
  
  .main-image img {
  
