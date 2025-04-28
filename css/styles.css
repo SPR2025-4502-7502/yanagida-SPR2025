@@ -90,16 +90,16 @@ nav ul li a button {
   background-color: whitesmoke; 
 
 }
+
+ nav ul li a:hover {
+ 	text-decoration: ;
+ 	color: purple;
+ }
  
  nav ul li a:visited {
  	text-decoration: none;
  	color: gray;
  /* color: rgba(230,68,0,0.5)*/
- }
-
- nav ul li a:hover {
- 	text-decoration: ;
- 	color: purple;
  }
  
  ol li {
