@@ -434,17 +434,9 @@ buttongallery {
 /*	background-color: forestgreen;*/
 }
 
-.gallery-image {
-/*	max-width: 80%;*/
-
-
-	
-
-}
-
 .gallery-image img {
 	width: 100%;
-/*	aspect-ratio: auto;
+	aspect-ratio: auto;
 	max-height: 600px;
 	margin: auto;*/
 }
