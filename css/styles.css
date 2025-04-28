@@ -387,8 +387,8 @@ height: 100px;
 
 .map { 
   justify-content: center;
-  max-width: 30px;
-  max-height: 10px; 
+  max-width: 200px;
+  max-height: 100px; 
 
 }
 
