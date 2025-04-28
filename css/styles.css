@@ -439,7 +439,7 @@ buttongallery {
 	width: auto;
 	aspect-ratio: auto;
 	max-height: 600px;
-	margin: auto;*/
+	margin: auto;
 }
 
 /*end gallery*/
@@ -466,6 +466,8 @@ h2 {
 h3 { 
   font-family: 'IBM+Plex', monospace; 
 
+}
+
 h4 { 
   
 }
@@ -482,9 +484,6 @@ p {
 	justify-content: space-between;
 	align-items: center;
 }
-
-
-
 
 
 .button_holder {
