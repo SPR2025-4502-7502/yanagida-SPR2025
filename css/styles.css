@@ -284,10 +284,12 @@ nav ul li a button {
 
  }
 
-.img { 
-    border: none;
-    width: 50px;
-height: 100px;
+img { 
+    display: flex; 
+	justify-content: center; 
+	border: none;
+    width: auto;
+height: auto;
 
   }
 
