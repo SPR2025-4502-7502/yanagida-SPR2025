@@ -770,7 +770,7 @@ background-color: lightgray;
 	    
     	display: flex; 
 	justify-content: center;
-	position: absolute;
+	position: center;
     	bottom: 0;
     	right: 0;
 /*    	width: 100%;*/
@@ -785,7 +785,6 @@ background-color: lightgray;
 .img-credit a {
 	color: whitesmoke;
 	text-shadow: black 1px 0 10px;
-	background: black;
 	border-radius: 2px;
 
 }
