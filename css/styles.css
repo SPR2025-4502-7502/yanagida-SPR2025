@@ -286,8 +286,8 @@ nav ul li a button {
 
   img { 
     border: none;
-    max-width: auto;
-max-height: auto;
+    width: auto;
+height: auto;
 
   }
 
