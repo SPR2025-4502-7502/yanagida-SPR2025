@@ -318,9 +318,9 @@ max-height: auto;
  .listintrocontainer {
     display: flex;
     flex-direction: column;
-    background-color: #c8c9e2;
+    background-color: #d8bdf2;
     padding: 5px;
-    border: 4px solid #008585;
+    border: 5px solid #663399;
     border-radius: 10px;
     max-width: 1200px;
     padding: 10px;
