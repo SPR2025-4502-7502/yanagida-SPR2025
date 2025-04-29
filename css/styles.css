@@ -1164,8 +1164,8 @@ nav ul li {
 	min-width: 45%;
 	border-radius: 0.5rem;
 /*	border: 1px solid	rgba(127,255,0,0.5);*/
-	border: 1px solid	rgba(0,162,230,0.5);
-	border: 5px solid	rgba(230,68,0,0.5);
+	border: 1px solid #663399;
+	border: 5px solid #663399;
 }
 
 nav ul li a {
@@ -1178,14 +1178,14 @@ nav ul li a {
 	font-style: normal;
 
 	text-decoration: none;
-	color: rgba(230,68,0,0.5);
+	color: purple;
 	margin: auto;
 }
 
 nav ul li a button {
 	font-family: 'Solway', serif;
 	max-width: 100%;
-	color: rgba(230,68,0,0.5);
+	color: #663399;
 /*	border: 1px solid	rgba(0,162,230,0.5);*/
 /*	border: 5px solid	rgba(230,68,0,0.5);*/
 	border: none;
