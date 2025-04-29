@@ -294,6 +294,8 @@ max-height: auto;
 }
 
 .img-rainier { 
+	justify-content: center; 
+	border: none; 
 	max-width: 100px; 
 	max-height: 200px;
 
